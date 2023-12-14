@@ -113,7 +113,7 @@ Referensi terkait: [1](https://en.wikipedia.org/wiki/Country_code_top-level_doma
 
 ## Mencoba Pembuatan Halaman Web Menggunakan HTML, CSS, dan JavaScript [v] ⭐⭐⭐
 
-[](https://github.com/ikhsanhazamy/WEB-GROZAV)
+[hasil web](https://github.com/ikhsanhazamy/WEB-GROZAV)
 
 ## Mencoba Penerapan Teknik Search Engine Optimization (SEO) Pada HTML [v] ⭐⭐⭐
 
