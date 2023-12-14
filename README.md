@@ -41,30 +41,30 @@ Komputer ini sangat cocok untuk penggunaan pribadi  di  rumah atau kantor.
 ![image](https://github.com/ikhsanhazamy/UAS-INFORMATIKA/assets/144709114/c484c578-72ce-4c0d-baed-031adf6e4fd2)
 ![image](https://github.com/ikhsanhazamy/UAS-INFORMATIKA/assets/144709114/744c32ad-21a6-40dc-b8ec-0dacaf20c0cb)
 
-c:	Change the current drive to the C:\ drive
-d:	Change the current drive to the D:\ drive
-CD c:\path\to\my_folder	Change directory to c:\path\to\my_folder
-CD ..	Navigate to the parent directory of the current working directory
-CD .\new_folder	Navigate to the folder new_folder located in the current working directory
-CD /D d:\videos\	Change the current drive to D:\ and access the folder videos on it.
-DIR	Display files and folders in the current directory
-DIR /A c:\apps\	Display files and folders in the directory c:\apps\
-DIR /A:D	Display only folders (D: directories)
-DIR /A:-D	Display only files (D: directories; -: not)
-DIR /A:H	Display hidden files and folders
-DIR /O	Display files and folders sorted alphabetically
-DIR /O:S	Display files and folders sorted by file size from smallest to largest
-DIR /O:-S	Display files and folders sorted by file size from largest to smallest
-DIR /B	Display only the names of files and folders in the current working directory
-SORT	Take input from a source file/pipeline, sort its contents alphabetically (default: A to Z; in reverse: Z to A), and display the output
-SORT "C:\music\playlist.m3u"	Sort the contents of C:\music\playlist.m3u line by line
-MOVE	Move a file or files
-MOVE c:\f1\text.txt c:\f2	Move a file text.txt from one folder c:\f1 to another folder c:\f2
-MD new_folderMAKEDIR new_folder	Create a new folder called new_folder in the current directory
-RD new_folderRMDIR new_folder	Delete the folder called new_folder in the current directory
-TREE	Show the directory structure of a disk/folder
-TREE "C:\Program Files"	Show the directory structure of the folder “Program Files” on the disk C:\
-TREE C:\ /F	Display the names of the files in each folder in the directory structure of the C:\ drive
+- c:	Change the current drive to the C:\ drive
+- d:	Change the current drive to the D:\ drive
+- CD c:\path\to\my_folder	Change directory to c:\path\to\my_folder
+- CD ..	Navigate to the parent directory of the current working directory
+- CD .\new_folder	Navigate to the folder new_folder located in the current working directory
+- CD /D d:\videos\	Change the current drive to D:\ and access the folder videos on it.
+- DIR	Display files and folders in the current directory
+- DIR /A c:\apps\	Display files and folders in the directory c:\apps\
+- DIR /A:D	Display only folders (D: directories)
+- DIR /A:-D	Display only files (D: directories; -: not)
+- DIR /A:H	Display hidden files and folders
+- DIR /O	Display files and folders sorted alphabetically
+- DIR /O:S	Display files and folders sorted by file size from smallest to largest
+- DIR /O:-S	Display files and folders sorted by file size from largest to smallest
+- DIR /B	Display only the names of files and folders in the current working directory
+- SORT	Take input from a source file/pipeline, sort its contents alphabetically (default: A to Z; in reverse: Z to A), and display the output
+- SORT "C:\music\playlist.m3u"	Sort the contents of C:\music\playlist.m3u line by line
+- MOVE	Move a file or files
+- MOVE c:\f1\text.txt c:\f2	Move a file text.txt from one folder c:\f1 to another folder c:\f2
+- MD new_folderMAKEDIR new_folder	Create a new folder called new_folder in the current directory
+- RD new_folderRMDIR new_folder	Delete the folder called new_folder in the current directory
+- TREE	Show the directory structure of a disk/folder
+- TREE "C:\Program Files"	Show the directory structure of the folder “Program Files” on the disk C:\
+- TREE C:\ /F	Display the names of the files in each folder in the directory structure of the C:\ drive
 
 
 
