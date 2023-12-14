@@ -5,7 +5,7 @@
 
 ## Menjelaskan Jenis-Jenis Mesin Komputasi ⭐⭐⭐
 
- ** 1. PC atau Personal Computer**
+ **1. PC atau Personal Computer**
      Komputer pribadi adalah komputer yang digunakan untuk keperluan pribadi.Komputer jenis ini banyak ditemukan di rumah, toko, kantor, dan area pribadi lainnya. Komputer ini jelas ada hanya untuk memenuhi kebutuhan pribadi. Fungsi utama  komputer ini adalah mengelola data input dan output sederhana sesuai kebutuhan penggunaan.Banyak orang  juga menggunakannya sebagai mesin kasir di  toko. Biasanya hanya satu orang yang bisa mengoperasikannya.
      
   **2. Komputer Server**
@@ -14,35 +14,22 @@
  Fungsi utama  komputer server adalah mengelola hak akses tingkat jaringan. Jika transfer data terbuka, perangkat komputasi lain yang menjadi klien dapat mengaksesnya.
  Biasanya digunakan untuk pertukaran data berbasis Internet dan sebagai tempat pertemuan para pemain game online.
  
-** 3. Komputer Desktop**
+**3. Komputer Desktop**
   Komputer desktop adalah perangkat komputasi yang dirancang khusus untuk penggunaan di rumah dan kantor. Umumnya komputer jenis ini digunakan untuk keperluan profesional dan untuk mengelola berbagai data di rumah dan kantor. Komputer desktop biasanya hadir dalam paket  terpisah dengan CPU, monitor, dan keyboard, dan biasanya berukuran lebih besar.
 Komputer ini sangat cocok untuk penggunaan pribadi  di  rumah atau kantor.
 
-** 4. Komputer Laptop**
+**4. Komputer Laptop**
   Laptop adalah evolusi dari  komputer desktop dengan keyboard, CPU, monitor, dan lainnya yang lebih kecil. Menariknya lagi, laptop mudah dibawa kemana-mana karena menggabungkan semuanya dalam satu perangkat. Selama ini laptop hadir dalam berbagai  konfigurasi mulai dari kisaran harga rendah hingga tinggi. Hal ini terlihat dari spesifikasi mengenai penggunaan RAM, ROM, dan harddisk. Pengguna dapat memilih laptop sesuai dengan kebutuhannya.
   
-** 5. Jenis Komputer Hybrid**
+**5. Jenis Komputer Hybrid**
   Beberapa dari Anda mungkin baru mengenal komputer hybrid. Ini adalah jenis komputer yang dirancang khusus oleh pabrikan untuk berfungsi secara kuantitatif atau kualitatif. Orang sering menggunakan komputer ini  untuk menggerakkan robot dan mesin. Biasa terlihat pada pabrik yang  menggunakan  mesin untuk memproduksi barang. Mesin ini biasanya memiliki komputer hibrid yang diprogram untuk kinerja khusus.
 
-** 6. Supercomputer**
+**6. Supercomputer**
   Superkomputer adalah perangkat komputasi dengan ukuran dan kapasitas yang sangat besar. Jenis ini umumnya ditujukan untuk menangani dan mengolah data berukuran besar atau big data. Selain itu, komputer ini memiliki kemampuan untuk menyimpan triliunan instruksi dan perintah. Perintah dan pernyataan ini masih dapat dijalankan hanya dalam beberapa detik, atau FLOPS floating point per detik. Kami biasanya melihat pengguna di perusahaan besar seperti Google dan NASA  mengelola data besar.
 
-** 7. Komputer Mainframe**
+**7. Komputer Mainframe**
   Komputer jenis mainframe  merupakan  komputer besar yang digunakan untuk mengolah data dan  aplikasi dengan kekuatan besar. Komputer jenis  ini biasanya ditemukan dalam alur kerja organisasi dan bisnis besar yang mengelola berbagai data. Tugas yang biasanya dilakukan komputer mainframe mencakup pengelolaan data perusahaan dan organisasi dalam bentuk penelitian, sensus, militer, dan bahkan transaksi keuangan. Instansi pemerintah dan  bank biasanya menggunakan komputer mainframe untuk menyimpan data ini.
 
-
-
-
-
-
-
-
-
-
-
-
-     
-  
 
 ## Mengktifkan dan Mencoba Google Colab [v] ⭐⭐⭐⭐⭐
 
@@ -50,7 +37,8 @@ Komputer ini sangat cocok untuk penggunaan pribadi  di  rumah atau kantor.
 
 ### Windows CMD [v] ⭐⭐⭐⭐
 
-Referensi [1](https://www.stationx.net/windows-command-line-cheat-sheet/)
+![image](https://github.com/ikhsanhazamy/UAS-INFORMATIKA/assets/144709114/ff9bbbc7-7053-442b-9027-4d59c01f101b)
+
 
 ### Linux Terminal Menggunakan Google Colab [v] ⭐⭐⭐⭐
 
