@@ -2,34 +2,11 @@
 # Hello Informatics !
 
 ## Menjelaskan dan Menginternalisasi Computational Thinking ⭐⭐⭐⭐⭐⭐⭐
+[blog](https://cussid.wordpress.com/2023/12/19/menjelaskan-dan-menginternalisasi-computational-thinking-%e2%ad%90%e2%ad%90%e2%ad%90%e2%ad%90%e2%ad%90%e2%ad%90%e2%ad%90/)
 
 ## Menjelaskan Jenis-Jenis Mesin Komputasi ⭐⭐⭐
 
- **1. PC atau Personal Computer**
-     Komputer pribadi adalah komputer yang digunakan untuk keperluan pribadi.Komputer jenis ini banyak ditemukan di rumah, toko, kantor, dan area pribadi lainnya. Komputer ini jelas ada hanya untuk memenuhi kebutuhan pribadi. Fungsi utama  komputer ini adalah mengelola data input dan output sederhana sesuai kebutuhan penggunaan.Banyak orang  juga menggunakannya sebagai mesin kasir di  toko. Biasanya hanya satu orang yang bisa mengoperasikannya.
-     
-  **2. Komputer Server**
-    Komputer server adalah jenis komputer yang dirancang khusus untuk memberikan layanan kepada perangkat lain melalui jaringan Internet.
- Secara spesifik, komputer server ini memiliki prosesor yang sangat bertenaga dan mampu menampung daya dalam jumlah besar, mulai dari RAM hingga harddisk dan perangkat lainnya.
- Fungsi utama  komputer server adalah mengelola hak akses tingkat jaringan. Jika transfer data terbuka, perangkat komputasi lain yang menjadi klien dapat mengaksesnya.
- Biasanya digunakan untuk pertukaran data berbasis Internet dan sebagai tempat pertemuan para pemain game online.
- 
-**3. Komputer Desktop**
-  Komputer desktop adalah perangkat komputasi yang dirancang khusus untuk penggunaan di rumah dan kantor. Umumnya komputer jenis ini digunakan untuk keperluan profesional dan untuk mengelola berbagai data di rumah dan kantor. Komputer desktop biasanya hadir dalam paket  terpisah dengan CPU, monitor, dan keyboard, dan biasanya berukuran lebih besar.
-Komputer ini sangat cocok untuk penggunaan pribadi  di  rumah atau kantor.
-
-**4. Komputer Laptop**
-  Laptop adalah evolusi dari  komputer desktop dengan keyboard, CPU, monitor, dan lainnya yang lebih kecil. Menariknya lagi, laptop mudah dibawa kemana-mana karena menggabungkan semuanya dalam satu perangkat. Selama ini laptop hadir dalam berbagai  konfigurasi mulai dari kisaran harga rendah hingga tinggi. Hal ini terlihat dari spesifikasi mengenai penggunaan RAM, ROM, dan harddisk. Pengguna dapat memilih laptop sesuai dengan kebutuhannya.
-  
-**5. Jenis Komputer Hybrid**
-  Beberapa dari Anda mungkin baru mengenal komputer hybrid. Ini adalah jenis komputer yang dirancang khusus oleh pabrikan untuk berfungsi secara kuantitatif atau kualitatif. Orang sering menggunakan komputer ini  untuk menggerakkan robot dan mesin. Biasa terlihat pada pabrik yang  menggunakan  mesin untuk memproduksi barang. Mesin ini biasanya memiliki komputer hibrid yang diprogram untuk kinerja khusus.
-
-**6. Supercomputer**
-  Superkomputer adalah perangkat komputasi dengan ukuran dan kapasitas yang sangat besar. Jenis ini umumnya ditujukan untuk menangani dan mengolah data berukuran besar atau big data. Selain itu, komputer ini memiliki kemampuan untuk menyimpan triliunan instruksi dan perintah. Perintah dan pernyataan ini masih dapat dijalankan hanya dalam beberapa detik, atau FLOPS floating point per detik. Kami biasanya melihat pengguna di perusahaan besar seperti Google dan NASA  mengelola data besar.
-
-**7. Komputer Mainframe**
-  Komputer jenis mainframe  merupakan  komputer besar yang digunakan untuk mengolah data dan  aplikasi dengan kekuatan besar. Komputer jenis  ini biasanya ditemukan dalam alur kerja organisasi dan bisnis besar yang mengelola berbagai data. Tugas yang biasanya dilakukan komputer mainframe mencakup pengelolaan data perusahaan dan organisasi dalam bentuk penelitian, sensus, militer, dan bahkan transaksi keuangan. Instansi pemerintah dan  bank biasanya menggunakan komputer mainframe untuk menyimpan data ini.
-
+[blog](https://cussid.wordpress.com/2023/12/18/menjelaskan-jenis-jenis-mesin-komputasi-%e2%ad%90%e2%ad%90%e2%ad%90/)
 
 ## Mengktifkan dan Mencoba Google Colab [v] ⭐⭐⭐⭐⭐
 
@@ -37,38 +14,7 @@ Komputer ini sangat cocok untuk penggunaan pribadi  di  rumah atau kantor.
 
 ### Windows CMD [v] ⭐⭐⭐⭐
 
-![image](https://github.com/ikhsanhazamy/UAS-INFORMATIKA/assets/144709114/ff9bbbc7-7053-442b-9027-4d59c01f101b)
-![image](https://github.com/ikhsanhazamy/UAS-INFORMATIKA/assets/144709114/c484c578-72ce-4c0d-baed-031adf6e4fd2)
-![image](https://github.com/ikhsanhazamy/UAS-INFORMATIKA/assets/144709114/744c32ad-21a6-40dc-b8ec-0dacaf20c0cb)
-
-- c:	Change the current drive to the C:\ drive
-- d:	Change the current drive to the D:\ drive
-- CD c:\path\to\my_folder	Change directory to c:\path\to\my_folder
-- CD ..	Navigate to the parent directory of the current working directory
-- CD .\new_folder	Navigate to the folder new_folder located in the current working directory
-- CD /D d:\videos\	Change the current drive to D:\ and access the folder videos on it.
-- DIR	Display files and folders in the current directory
-- DIR /A c:\apps\	Display files and folders in the directory c:\apps\
-- DIR /A:D	Display only folders (D: directories)
-- DIR /A:-D	Display only files (D: directories; -: not)
-- DIR /A:H	Display hidden files and folders
-- DIR /O	Display files and folders sorted alphabetically
-- DIR /O:S	Display files and folders sorted by file size from smallest to largest
-- DIR /O:-S	Display files and folders sorted by file size from largest to smallest
-- DIR /B	Display only the names of files and folders in the current working directory
-- SORT	Take input from a source file/pipeline, sort its contents alphabetically (default: A to Z; in reverse: Z to A), and display the output
-- SORT "C:\music\playlist.m3u"	Sort the contents of C:\music\playlist.m3u line by line
-- MOVE	Move a file or files
-- MOVE c:\f1\text.txt c:\f2	Move a file text.txt from one folder c:\f1 to another folder c:\f2
-- MD new_folderMAKEDIR new_folder	Create a new folder called new_folder in the current directory
-- RD new_folderRMDIR new_folder	Delete the folder called new_folder in the current directory
-- TREE	Show the directory structure of a disk/folder
-- TREE "C:\Program Files"	Show the directory structure of the folder “Program Files” on the disk C:\
-- TREE C:\ /F	Display the names of the files in each folder in the directory structure of the C:\ drive
-
-
-
-
+[blog](https://cussid.wordpress.com/2023/12/19/windows-cmd-v-%e2%ad%90%e2%ad%90%e2%ad%90%e2%ad%90/)
 
 ### Linux Terminal Menggunakan Google Colab [v] ⭐⭐⭐⭐
 
@@ -168,6 +114,7 @@ Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsof
 ## Mencoba Memproses File Big Data ORC Menggunakan Google Colab [v] ⭐⭐
 
 ## Menjelaskan Jurnal, Conference, Artikel, Grade Jurnal [v] ⭐⭐⭐⭐⭐
+[blog](https://cussid.wordpress.com/2023/12/19/menjelaskan-jurnal-conference-artikel-grade-jurnal/)
 
 ## Eksplorasi Artikel Jurnal / Conference di Repository Terekognisi Internasional (IEEE / Arxiv / Science Direct / ACM /DBLP) [v] ⭐⭐⭐⭐
 
@@ -192,8 +139,14 @@ Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsof
 ## Membangun Profil Github Page ⭐⭐⭐⭐⭐
 
 ## Mengikuti Workshop / Event / Course Terkait IT ⭐⭐⭐⭐
+[Coure] (https://dashboard.codepolitan.com/user/ikhsanhazamygmailcom)     
+![image](https://github.com/ikhsanhazamy/UAS-INFORMATIKA/assets/144709114/dd6f24bf-3256-43d6-b24d-6e733aabd443)
+![image](https://github.com/ikhsanhazamy/UAS-INFORMATIKA/assets/144709114/b0c34752-ff60-4b18-998d-b803205d43a6)
+![image](https://github.com/ikhsanhazamy/UAS-INFORMATIKA/assets/144709114/fe5d4892-d10b-41e2-bc78-d6943eeb8d8b)
 
 ## Membaca dan Mengambil Inspirasi Dari Buku Bertema Informatika ⭐⭐⭐⭐⭐
+
+[blog](https://cussid.wordpress.com/2023/12/19/membaca-dan-mengambil-inspirasi-dari-buku-bertema-informatika-%e2%ad%90%e2%ad%90%e2%ad%90%e2%ad%90%e2%ad%90/)
 
 
 
