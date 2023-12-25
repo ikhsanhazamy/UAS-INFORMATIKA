@@ -19,6 +19,7 @@
 [terminal google colab](https://youtu.be/Iye0cLGaQbY)
 
 ## Membuat Algoritma Dalam Bentuk Flow Chart [v] ⭐⭐⭐⭐⭐
+[drive](https://drive.google.com/drive/folders/15anMj79rDmJmVKEa7-uwlIMeWIszNWy1?usp=drive_link)
 ![pembuatan kopi Diagram](https://github.com/ikhsanhazamy/UAS-INFORMATIKA/assets/144709114/7f05932d-a01a-4e0f-ab56-b95513283bbc)
 
 
@@ -132,10 +133,19 @@ Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsof
 ## Eksplorasi dan Pilih Topik yang Diminati di Roadmap.sh ⭐⭐⭐
 
 ## Eksplorasi Top Github Project yang Diminati ⭐⭐ 
+![image](https://github.com/ikhsanhazamy/UAS-INFORMATIKA/assets/144709114/e5764f35-c6d8-40a9-9a11-00a1b62174fe)
+![image](https://github.com/ikhsanhazamy/UAS-INFORMATIKA/assets/144709114/1fb04c4a-b0da-4067-b988-6a0ab58a7066) project pembuatan web 
+![image](https://github.com/ikhsanhazamy/UAS-INFORMATIKA/assets/144709114/bb7ce186-d65d-4ddb-ace8-55757a4612c7) project pembuatan web
+
 
 ## Membangun Profil Linkedin dan Mengikuti Akun-Akun Inspirasif Bertema Informatika ⭐⭐⭐
+![Cuplikan layar 2023-12-25 151057](https://github.com/ikhsanhazamy/UAS-INFORMATIKA/assets/144709114/24922583-4874-4ac8-991e-8069e5ccbec2)
+![Cuplikan layar 2023-12-25 150904](https://github.com/ikhsanhazamy/UAS-INFORMATIKA/assets/144709114/9722234c-6b9e-4a08-bff5-da8c9cdebee0)
+![Cuplikan layar 2023-12-25 150921](https://github.com/ikhsanhazamy/UAS-INFORMATIKA/assets/144709114/3e088497-6f96-40d2-b55c-eb398e297273)
+![Cuplikan layar 2023-12-25 151149](https://github.com/ikhsanhazamy/UAS-INFORMATIKA/assets/144709114/9002011c-cb67-4708-bb3c-f7f5d3aa7449)
 
 ## Membangun Profil Github Page ⭐⭐⭐⭐⭐
+[Profil GiHub](https://github.com/ikhsanhazamy)
 
 ## Mengikuti Workshop / Event / Course Terkait IT ⭐⭐⭐⭐
 [Coure] (https://dashboard.codepolitan.com/user/ikhsanhazamygmailcom)     
