@@ -11,7 +11,6 @@
 [google colab](https://youtu.be/h6wqhowKTWg)
 
 ## Mencoba Console Sistem Operasi
-
 ### Windows CMD [v] ⭐⭐⭐⭐
 [blog](https://cussid.wordpress.com/2023/12/19/windows-cmd-v-%e2%ad%90%e2%ad%90%e2%ad%90%e2%ad%90/)
 
@@ -31,6 +30,7 @@ Referensi [1](https://scratch.mit.edu/)
   [bubbleSort](https://youtu.be/AiGVHvWYj2s)
 
 ## Mencoba dan Mendemonstrasikan Penggunakan IDE ⭐⭐
+  [IDE VSCODE](https://youtu.be/9q1ZH7hiRyo)
 
 ## Mendaftar, Mengeksplorasi, dan Mendemonstrasikan Penggunaan HackerRank [v] ⭐⭐⭐⭐⭐
 [HackerRank](https://youtu.be/Tj5ZGIaMhSU)
@@ -48,29 +48,27 @@ Referensi [1](https://www.w3schools.com/postgresql/postgresql_create_table.php)
 - Dokumen HyperText Markup Language (HTML) ada untuk memudahkan pertukaran informasi berbasis Hypertext.
 - Web Browser seperti Firefox, Chrome, Opera, ada untuk membuka dan mempresentasikan dokumen HTML
 - Dokumen HTML ini bisa bersumber dari web server yang kita ingin datanya (Tokopedia, Wikipedia, Detik.com, dsb.) atau bisa juga dukumen HTML yang kita buat sendiri
+  [WebBrowser](https://youtu.be/MnPDGVkb07A)
 
 ## Mendemonstrasikan dan Menjelaskan Komponen Dari Contoh Uniform Resource Locator (URL) [v] ⭐⭐
+  [Blog](https://cussid.wordpress.com/2023/12/25/komponen-dari-contoh-uniform-resource-locator-url/)
 
-Referensi: [1](https://www.startertutorials.com/ajwt/uniform-resource-locator.html)
 
 ## Mencoba Pelacakan Informasi Server dari Alamat Domain [v] ⭐
-
 Referensi terkait: [1](https://en.wikipedia.org/wiki/Country_code_top-level_domain) [2](https://en.wikipedia.org/wiki/List_of_Internet_top-level_domains)
 
 ## Mencoba Pembuatan Halaman Web Menggunakan HTML, CSS, dan JavaScript [v] ⭐⭐⭐
-
 [hasil web](https://github.com/ikhsanhazamy/WEB-GROZAV)
 ![image](https://github.com/ikhsanhazamy/UAS-INFORMATIKA/assets/144709114/afe68af3-4bee-4bc7-a32e-c500c2c70975)
-
 
 ## Mencoba Penerapan Teknik Search Engine Optimization (SEO) Pada HTML [v] ⭐⭐⭐
 
 Referensi []
 
 ## Mencoba Pembuatan File JSON [v] ⭐⭐⭐
+![image](https://github.com/ikhsanhazamy/UAS-INFORMATIKA/assets/144709114/06aaa587-6c1f-4f0a-9414-409273dac1f2)
 
 ## Mencoba Penggunaan Web Hosting Dengan Untuk Halaman HTML [v] ⭐⭐⭐
-
 
 ## Mencoba Penggunaan Web Hosting Dengan Untuk Web Service [v] ⭐⭐⭐
 
@@ -86,8 +84,10 @@ Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsof
 ## Mencoba Penggunaan Content Management System (Wordpress) [v] ⭐⭐⭐
 
 ## Mendemonstrasikan Akses Konten Multimedia (Image, Audio, Video) ⭐⭐⭐
+  [Multimedia Konten](https://youtu.be/xl7sYsGE0dI)
 
 ## Mencoba Edit Konten Multimedia (Image, Audio, Video) [v] ⭐⭐
+  [Multimedia Konten](https://youtu.be/xl7sYsGE0dI)
 
 ## Mencoba Pembuatan Game dan Simulasi Menggunakan Logo [v] ⭐⭐
 
@@ -121,22 +121,32 @@ Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsof
 ## Menonton Video Presentasi Tugas Akhir Informatika ⭐⭐⭐⭐⭐
 
 ## Mengeksplorasi Seluruh Profesi Terkait Informatika dan Profesi yang Diminati ⭐⭐⭐⭐
+  ![image](https://github.com/ikhsanhazamy/UAS-INFORMATIKA/assets/144709114/94b30966-03fb-44c6-896e-060e01d002c0)
+  ![image](https://github.com/ikhsanhazamy/UAS-INFORMATIKA/assets/144709114/dd9c786f-8602-42a2-898a-bdb6db2832ae)
 
 ## Eksplorasi Tools Untuk Belajar Bahasa Inggris (Duolingo) ⭐⭐⭐
+![image](https://github.com/ikhsanhazamy/UAS-INFORMATIKA/assets/144709114/8cb0e4ed-a103-47d4-8914-05b68fcdefc7)
 
 ## Eksplorasi Tools Untuk Belajar Berbicara Bahasa Inggris (HelloTalk) ⭐⭐⭐ 
+![Gambar WhatsApp 2023-12-25 pukul 22 59 35_b5fe1909](https://github.com/ikhsanhazamy/UAS-INFORMATIKA/assets/144709114/5063dccf-cd92-4e90-b42e-955cba33f636)
+![Gambar WhatsApp 2023-12-25 pukul 22 59 34_7ac18f77](https://github.com/ikhsanhazamy/UAS-INFORMATIKA/assets/144709114/b46249d8-d5bc-4d4e-a581-8a5a18632f85)
 
 ## Eksplorasi Lowongan Pekerjaan IT ⭐⭐⭐
+![image](https://github.com/ikhsanhazamy/UAS-INFORMATIKA/assets/144709114/ea1c7b29-1fd8-472f-8693-51a053cf7028)
+![Cuplikan layar 2023-12-25 222034](https://github.com/ikhsanhazamy/UAS-INFORMATIKA/assets/144709114/861c25ce-5d1f-49c1-a17d-5593652d66d0)
+![Cuplikan layar 2023-12-25 222108](https://github.com/ikhsanhazamy/UAS-INFORMATIKA/assets/144709114/6e914704-aefb-4f3d-a714-ba4cda42462e)
 
 ## Eksplorasi Lowongan Freelancer IT (Upwork / Toptal / Freelancer.com) ⭐⭐⭐
+![image](https://github.com/ikhsanhazamy/UAS-INFORMATIKA/assets/144709114/8e5fc83d-8f6c-4b6a-86a9-1cab312cba26)
+![image](https://github.com/ikhsanhazamy/UAS-INFORMATIKA/assets/144709114/6f01e61b-a308-4f8d-af59-b0c4b37079a7)
 
 ## Eksplorasi dan Pilih Topik yang Diminati di Roadmap.sh ⭐⭐⭐
+  [Roadmap.sh](https://youtu.be/joZU9WmGhVM)
 
 ## Eksplorasi Top Github Project yang Diminati ⭐⭐ 
 ![image](https://github.com/ikhsanhazamy/UAS-INFORMATIKA/assets/144709114/e5764f35-c6d8-40a9-9a11-00a1b62174fe)
 ![image](https://github.com/ikhsanhazamy/UAS-INFORMATIKA/assets/144709114/1fb04c4a-b0da-4067-b988-6a0ab58a7066) project pembuatan web 
 ![image](https://github.com/ikhsanhazamy/UAS-INFORMATIKA/assets/144709114/bb7ce186-d65d-4ddb-ace8-55757a4612c7) project pembuatan web
-
 
 ## Membangun Profil Linkedin dan Mengikuti Akun-Akun Inspirasif Bertema Informatika ⭐⭐⭐
 ![Cuplikan layar 2023-12-25 151057](https://github.com/ikhsanhazamy/UAS-INFORMATIKA/assets/144709114/24922583-4874-4ac8-991e-8069e5ccbec2)
@@ -154,7 +164,6 @@ Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsof
 ![image](https://github.com/ikhsanhazamy/UAS-INFORMATIKA/assets/144709114/fe5d4892-d10b-41e2-bc78-d6943eeb8d8b)
 
 ## Membaca dan Mengambil Inspirasi Dari Buku Bertema Informatika ⭐⭐⭐⭐⭐
-
 [blog](https://cussid.wordpress.com/2023/12/19/membaca-dan-mengambil-inspirasi-dari-buku-bertema-informatika-%e2%ad%90%e2%ad%90%e2%ad%90%e2%ad%90%e2%ad%90/)
 
 
