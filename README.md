@@ -6,7 +6,7 @@
 
 ## Menjelaskan Jenis-Jenis Mesin Komputasi ⭐⭐⭐
 
-[blog](https://cussid.wordpress.com/2023/12/18/menjelaskan-jenis-jenis-mesin-komputasi-%e2%ad%90%e2%ad%90%e2%ad%90/)
+[blog](https://cussid.wordpress.com/2023/12/18/menjelaskan-jenis-jenis-mesin-komputasi-%e2%ad%90%e2%ad%90%e2%ad%90/)word
 
 ## Mengktifkan dan Mencoba Google Colab [v] ⭐⭐⭐⭐⭐
 
