@@ -19,7 +19,8 @@
 [terminal google colab](https://youtu.be/Iye0cLGaQbY)
 
 ## Membuat Algoritma Dalam Bentuk Flow Chart [v] ⭐⭐⭐⭐⭐
-Referensi [1](https://dev.to/angelotheman/flowchart-wizardry-master-the-art-of-visualizing-algorithms-4e4j)
+![pembuatan kopi Diagram](https://github.com/ikhsanhazamy/UAS-INFORMATIKA/assets/144709114/7f05932d-a01a-4e0f-ab56-b95513283bbc)
+
 
 ## Mencoba Scratch Bahasa Indonesia [v] ⭐⭐⭐⭐⭐⭐⭐
 Referensi [1](https://scratch.mit.edu/)
