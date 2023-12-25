@@ -5,25 +5,23 @@
 [blog](https://cussid.wordpress.com/2023/12/19/menjelaskan-dan-menginternalisasi-computational-thinking-%e2%ad%90%e2%ad%90%e2%ad%90%e2%ad%90%e2%ad%90%e2%ad%90%e2%ad%90/)
 
 ## Menjelaskan Jenis-Jenis Mesin Komputasi ⭐⭐⭐
-
 [blog](https://cussid.wordpress.com/2023/12/18/menjelaskan-jenis-jenis-mesin-komputasi-%e2%ad%90%e2%ad%90%e2%ad%90/)word
 
 ## Mengktifkan dan Mencoba Google Colab [v] ⭐⭐⭐⭐⭐
+[google colab](https://youtu.be/h6wqhowKTWg)
 
 ## Mencoba Console Sistem Operasi
 
 ### Windows CMD [v] ⭐⭐⭐⭐
-
 [blog](https://cussid.wordpress.com/2023/12/19/windows-cmd-v-%e2%ad%90%e2%ad%90%e2%ad%90%e2%ad%90/)
 
 ### Linux Terminal Menggunakan Google Colab [v] ⭐⭐⭐⭐
+[terminal google colab](https://youtu.be/Iye0cLGaQbY)
 
 ## Membuat Algoritma Dalam Bentuk Flow Chart [v] ⭐⭐⭐⭐⭐
-
 Referensi [1](https://dev.to/angelotheman/flowchart-wizardry-master-the-art-of-visualizing-algorithms-4e4j)
 
 ## Mencoba Scratch Bahasa Indonesia [v] ⭐⭐⭐⭐⭐⭐⭐
-
 Referensi [1](https://scratch.mit.edu/)
 
 ## Mencoba Algoritma Bubble Sort Menggunakan Java [v] ⭐⭐⭐
