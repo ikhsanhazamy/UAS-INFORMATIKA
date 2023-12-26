@@ -39,10 +39,12 @@ Referensi [1](https://scratch.mit.edu/)
 
 ## Mencoba Instalasi Database (PostgreSQL / MySQL / dsb.) [v] ⭐⭐⭐
   ![image](https://github.com/ikhsanhazamy/UAS-INFORMATIKA/assets/144709114/7445e6ef-66e3-4a52-8d07-a8ce823d4bab)
-
+  <img width="960" alt="image" src="https://github.com/ikhsanhazamy/UAS-INFORMATIKA/assets/144709114/3de58069-1f13-43e3-a762-bb1b799adf44">
+  <img width="951" alt="image" src="https://github.com/ikhsanhazamy/UAS-INFORMATIKA/assets/144709114/d807a00d-68c8-45d7-be61-aa36b21708ca">
 
 ## Mencoba Eksplorasi dan Query Database Menggunakan Database Explorer (Dbeaver / dsb.) [v] ⭐⭐⭐
-
+  <img width="957" alt="image" src="https://github.com/ikhsanhazamy/UAS-INFORMATIKA/assets/144709114/429228fd-58a8-4f9e-8e42-d495a786fb58">
+  
 Referensi installer [Dbeaver](https://dbeaver.io/download/)
 Referensi [1](https://www.w3schools.com/postgresql/postgresql_create_table.php)
 
