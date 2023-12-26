@@ -55,7 +55,7 @@ Referensi [1](https://www.w3schools.com/postgresql/postgresql_create_table.php)
 
 
 ## Mencoba Pelacakan Informasi Server dari Alamat Domain [v] ⭐
-Referensi terkait: [1](https://en.wikipedia.org/wiki/Country_code_top-level_domain) [2](https://en.wikipedia.org/wiki/List_of_Internet_top-level_domains)
+[domain](https://en.wikipedia.org/wiki/List_of_Internet_top-level_domains#Geographic_top-level_domains)
 
 ## Mencoba Pembuatan Halaman Web Menggunakan HTML, CSS, dan JavaScript [v] ⭐⭐⭐
 [hasil web](https://github.com/ikhsanhazamy/WEB-GROZAV)
@@ -82,6 +82,7 @@ Saat ini banyak perusahaan berbasis digital seperti Gojek, Tokopedia, Instagram,
 Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsoft Azure](https://azure.microsoft.com) [Google Cloud Platform](https://cloud.google.com) 
 
 ## Mencoba Penggunaan Content Management System (Wordpress) [v] ⭐⭐⭐
+  [Management Content](https://youtu.be/5I1Te_cVX_M) 
 
 ## Mendemonstrasikan Akses Konten Multimedia (Image, Audio, Video) ⭐⭐⭐
   [Multimedia Konten](https://youtu.be/xl7sYsGE0dI)
