@@ -38,6 +38,8 @@ Referensi [1](https://scratch.mit.edu/)
 ## Mendemonstrasikan Pembuatan Aplikasi / Game Pada Platform : Mobile / Desktop / Web Browser ⭐⭐⭐⭐⭐
 
 ## Mencoba Instalasi Database (PostgreSQL / MySQL / dsb.) [v] ⭐⭐⭐
+  ![image](https://github.com/ikhsanhazamy/UAS-INFORMATIKA/assets/144709114/7445e6ef-66e3-4a52-8d07-a8ce823d4bab)
+
 
 ## Mencoba Eksplorasi dan Query Database Menggunakan Database Explorer (Dbeaver / dsb.) [v] ⭐⭐⭐
 
@@ -45,9 +47,6 @@ Referensi installer [Dbeaver](https://dbeaver.io/download/)
 Referensi [1](https://www.w3schools.com/postgresql/postgresql_create_table.php)
 
 ## Mendemonstrasikan dan Menjelaskan Penggunaan Web Browser untuk Mengakses Halaman Website HTML [v] ⭐⭐⭐⭐
-- Dokumen HyperText Markup Language (HTML) ada untuk memudahkan pertukaran informasi berbasis Hypertext.
-- Web Browser seperti Firefox, Chrome, Opera, ada untuk membuka dan mempresentasikan dokumen HTML
-- Dokumen HTML ini bisa bersumber dari web server yang kita ingin datanya (Tokopedia, Wikipedia, Detik.com, dsb.) atau bisa juga dukumen HTML yang kita buat sendiri
   [WebBrowser](https://youtu.be/MnPDGVkb07A)
 
 ## Mendemonstrasikan dan Menjelaskan Komponen Dari Contoh Uniform Resource Locator (URL) [v] ⭐⭐
@@ -63,7 +62,6 @@ Referensi [1](https://www.w3schools.com/postgresql/postgresql_create_table.php)
 
 ## Mencoba Penerapan Teknik Search Engine Optimization (SEO) Pada HTML [v] ⭐⭐⭐
 
-
 ## Mencoba Pembuatan File JSON [v] ⭐⭐⭐
 ![image](https://github.com/ikhsanhazamy/UAS-INFORMATIKA/assets/144709114/06aaa587-6c1f-4f0a-9414-409273dac1f2)
 
@@ -77,6 +75,7 @@ Referensi [1](https://www.w3schools.com/postgresql/postgresql_create_table.php)
 ## Mencoba HTTP Request dan Web API dengan Hoppscotch / Postman [v] ⭐⭐
 
 ## Mendemonstrasikan Penggunaan Developer Tools Pada Web Browser (Firefox / Chrome) [v] ⭐⭐⭐⭐⭐
+[](https://youtu.be/3Ja175nlyQ0)
 
 ## Mengeksplorasi dan Menjelaskan Layanan Cloud Service yang Diminati (GCP / AWS / Azure) [v] ⭐⭐
 Saat ini banyak perusahaan berbasis digital seperti Gojek, Tokopedia, Instagram, Telkom memanfaatkan Cloud Service karena memudahkan untuk mulai pembangunan dan analisis menggunakan infrastruktur digital yang dapat berkembang secara dinamis dengan tarif yang sangat teliti.
@@ -117,15 +116,19 @@ Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsof
 ![Gambar WhatsApp 2023-12-26 pukul 14 50 19_9d6a7b78](https://github.com/ikhsanhazamy/UAS-INFORMATIKA/assets/144709114/cbc22925-a8e3-4a02-963a-9be32e86b4b1)
 
 ## Mencoba Memproses File CSV Menggunakan Google Colab [v] ⭐⭐
+  ![image](https://github.com/ikhsanhazamy/UAS-INFORMATIKA/assets/144709114/c982f25b-ddda-4c76-b811-ebf54e12516c)
 
 ## Mencoba Memproses File Big Data ORC Menggunakan Google Colab [v] ⭐⭐
+  ![image](https://github.com/ikhsanhazamy/UAS-INFORMATIKA/assets/144709114/a87ead0c-b906-46b2-a005-d77123d55b5e)
 
 ## Menjelaskan Jurnal, Conference, Artikel, Grade Jurnal [v] ⭐⭐⭐⭐⭐
 [blog](https://cussid.wordpress.com/2023/12/19/menjelaskan-jurnal-conference-artikel-grade-jurnal/)
 
 ## Eksplorasi Artikel Jurnal / Conference di Repository Terekognisi Internasional (IEEE / Arxiv / Science Direct / ACM /DBLP) [v] ⭐⭐⭐⭐
+  [](https://youtu.be/emMpHYI7NBY)
 
 ## Menonton Video Presentasi Tugas Akhir Informatika ⭐⭐⭐⭐⭐
+  [Tugas Akhir](https://youtu.be/4tTk1jOefgw)
 
 ## Mengeksplorasi Seluruh Profesi Terkait Informatika dan Profesi yang Diminati ⭐⭐⭐⭐
   ![image](https://github.com/ikhsanhazamy/UAS-INFORMATIKA/assets/144709114/94b30966-03fb-44c6-896e-060e01d002c0)
