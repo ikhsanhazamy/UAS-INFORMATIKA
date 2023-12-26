@@ -69,7 +69,6 @@ Referensi [1](https://www.w3schools.com/postgresql/postgresql_create_table.php)
   <img width="888" alt="image" src="https://github.com/ikhsanhazamy/UAS-INFORMATIKA/assets/144709114/efdeddfd-047d-4f1f-af3b-cdf809c28f87">
   [](https://github.com/ikhsanhazamy)
 
-
 ## Mencoba Penggunaan Web Hosting Dengan Untuk Web Service [v] ⭐⭐⭐
 
 ## Mencoba HTTP Request dan Web API dengan Hoppscotch / Postman [v] ⭐⭐
