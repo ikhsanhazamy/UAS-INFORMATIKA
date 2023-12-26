@@ -44,9 +44,7 @@ Referensi [1](https://scratch.mit.edu/)
 
 ## Mencoba Eksplorasi dan Query Database Menggunakan Database Explorer (Dbeaver / dsb.) [v] ⭐⭐⭐
   <img width="957" alt="image" src="https://github.com/ikhsanhazamy/UAS-INFORMATIKA/assets/144709114/429228fd-58a8-4f9e-8e42-d495a786fb58">
-  
-Referensi installer [Dbeaver](https://dbeaver.io/download/)
-Referensi [1](https://www.w3schools.com/postgresql/postgresql_create_table.php)
+  [](https://youtu.be/dhv7aNuocI8)
 
 ## Mendemonstrasikan dan Menjelaskan Penggunaan Web Browser untuk Mengakses Halaman Website HTML [v] ⭐⭐⭐⭐
   [WebBrowser](https://youtu.be/MnPDGVkb07A)
