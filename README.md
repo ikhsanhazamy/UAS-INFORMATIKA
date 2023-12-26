@@ -63,12 +63,14 @@ Referensi [1](https://www.w3schools.com/postgresql/postgresql_create_table.php)
 
 ## Mencoba Penerapan Teknik Search Engine Optimization (SEO) Pada HTML [v] ⭐⭐⭐
 
-Referensi []
 
 ## Mencoba Pembuatan File JSON [v] ⭐⭐⭐
 ![image](https://github.com/ikhsanhazamy/UAS-INFORMATIKA/assets/144709114/06aaa587-6c1f-4f0a-9414-409273dac1f2)
 
 ## Mencoba Penggunaan Web Hosting Dengan Untuk Halaman HTML [v] ⭐⭐⭐
+  <img width="888" alt="image" src="https://github.com/ikhsanhazamy/UAS-INFORMATIKA/assets/144709114/efdeddfd-047d-4f1f-af3b-cdf809c28f87">
+  [](https://github.com/ikhsanhazamy)
+
 
 ## Mencoba Penggunaan Web Hosting Dengan Untuk Web Service [v] ⭐⭐⭐
 
@@ -93,6 +95,7 @@ Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsof
 ## Mencoba Pembuatan Game dan Simulasi Menggunakan Logo [v] ⭐⭐
 
 ## Mencoba Pemrosesan Konten Multimedia (Image, Audio) Menggunakan Google Colab [v] ⭐⭐⭐
+  <img width="914" alt="image" src="https://github.com/ikhsanhazamy/UAS-INFORMATIKA/assets/144709114/0a62ce75-1351-4038-a66b-dcb69b0eef6c">
 
 ## Mencoba Web Tool AI Discriminative (Image Classification) [v] ⭐⭐⭐⭐
 
@@ -105,10 +108,13 @@ Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsof
 ## Mencoba Data Visualization Dengan Code [v] ⭐⭐
 
 ## Mendaftar dan Mencoba Eksplorasi HuggingFace [v] ⭐⭐⭐
+  [](https://youtu.be/Y0yD_LAhNQc)
 
 ## Mendaftar dan Mencoba Eksplorasi Kaggle [v] ⭐⭐⭐⭐
+  [](https://youtu.be/PZfZdCRGOns)
 
 ## Mencoba Protokol Komunikasi IoT (MQTT) [v] ⭐
+![Gambar WhatsApp 2023-12-26 pukul 14 50 19_9d6a7b78](https://github.com/ikhsanhazamy/UAS-INFORMATIKA/assets/144709114/cbc22925-a8e3-4a02-963a-9be32e86b4b1)
 
 ## Mencoba Memproses File CSV Menggunakan Google Colab [v] ⭐⭐
 
