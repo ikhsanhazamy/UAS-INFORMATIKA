@@ -48,22 +48,41 @@ Referensi [1](https://scratch.mit.edu/)
 
 ## Mendemonstrasikan dan Menjelaskan Penggunaan Web Browser untuk Mengakses Halaman Website HTML [v] ⭐⭐⭐⭐
   [WebBrowser](https://youtu.be/MnPDGVkb07A)
+  (Kutipan dari artikel) 
+  1. Interaktivitas: HTML menyediakan elemen dan tag yang memungkinkan Anda membuat halaman Web interaktif.
+     Browser memahami struktur HTML dan dapat menampilkan elemen-elemen ini sedemikian rupa sehingga memungkinkan pengguna berinteraksi dengan konten.
+  2. Rendering dan Tampilan: Browser memiliki mesin rendering yang dapat menafsirkan dan menampilkan HTML dengan cara yang sesuai dengan standar web.
+     Browser memiliki fungsionalitas bawaan untuk memutar dan menampilkan elemen multimedia ini.
+  3. Scripting: HTML dapat berisi skrip JavaScript yang dijalankan oleh browser untuk menambahkan fungsionalitas dinamis ke halaman web.
+  4. Fitur navigasi: HTML menyediakan elemen yang memungkinkan navigasi antar halaman.
+     Oleh karena itu, HTML dan browser bekerja sama untuk memberikan pengalaman pengguna yang kaya dan interaktif di dunia web.
+     HTML sendiri merupakan bahasa markup statis yang menyediakan lingkungan di mana browser dapat menafsirkan, memproses, dan menampilkan halaman web sesuai        dengan spesifikasi HTML.
 
 ## Mendemonstrasikan dan Menjelaskan Komponen Dari Contoh Uniform Resource Locator (URL) [v] ⭐⭐
   [Blog](https://cussid.wordpress.com/2023/12/25/komponen-dari-contoh-uniform-resource-locator-url/)
 
-
 ## Mencoba Pelacakan Informasi Server dari Alamat Domain [v] ⭐
-[domain](https://en.wikipedia.org/wiki/List_of_Internet_top-level_domains#Geographic_top-level_domains)
+  [domain](https://en.wikipedia.org/wiki/List_of_Internet_top-level_domains#Geographic_top-level_domains)
+  DNS Lookup:
+  
+  Dengan melakukan DNS lookup, Anda dapat mengetahui informasi seperti alamat IP yang terkait dengan domain tersebut. Perintah nslookup atau dig juga dapat       digunakan untuk melakukan DNS lookup.
+  contoh penggunaan nslookup pada google.com
+  ![image](https://github.com/ikhsanhazamy/UAS-INFORMATIKA/assets/144709114/6b9154c3-3476-45db-aa49-d4482f2e763e)
+
 
 ## Mencoba Pembuatan Halaman Web Menggunakan HTML, CSS, dan JavaScript [v] ⭐⭐⭐
-[hasil web](https://github.com/ikhsanhazamy/WEB-GROZAV)
-![image](https://github.com/ikhsanhazamy/UAS-INFORMATIKA/assets/144709114/afe68af3-4bee-4bc7-a32e-c500c2c70975)
+  [hasil web](https://github.com/ikhsanhazamy/WEB-GROZAV)  
+  OutPut dari web grozav
+  ![image](https://github.com/ikhsanhazamy/UAS-INFORMATIKA/assets/144709114/afe68af3-4bee-4bc7-a32e-c500c2c70975)
 
 ## Mencoba Penerapan Teknik Search Engine Optimization (SEO) Pada HTML [v] ⭐⭐⭐
+  [](https://cussid.wordpress.com/2023/12/28/seo-search-engine-optimization/)
 
 ## Mencoba Pembuatan File JSON [v] ⭐⭐⭐
-![image](https://github.com/ikhsanhazamy/UAS-INFORMATIKA/assets/144709114/06aaa587-6c1f-4f0a-9414-409273dac1f2)
+File JSON (JavaScript Object Notation) 
+adalah format data ringan yang digunakan untuk pertukaran data antar aplikasi. JSON pada dasarnya adalah teks, dapat dibaca oleh manusia, namun juga mudah diuraikan dan diproduksi oleh mesin. Format ini sering digunakan dalam pengembangan aplikasi web untuk mentransfer data antara server dan browser, namun format ini juga tersebar luas dalam konteks umum pertukaran data. JSON sering digunakan sebagai format data standar untuk bertukar informasi di RESTful API.
+Hal ini memungkinkan aplikasi klien dan server untuk berkomunikasi menggunakan format data yang konsisten.
+  ![image](https://github.com/ikhsanhazamy/UAS-INFORMATIKA/assets/144709114/06aaa587-6c1f-4f0a-9414-409273dac1f2)
 
 ## Mencoba Penggunaan Web Hosting Dengan Untuk Halaman HTML [v] ⭐⭐⭐
   <img width="888" alt="image" src="https://github.com/ikhsanhazamy/UAS-INFORMATIKA/assets/144709114/efdeddfd-047d-4f1f-af3b-cdf809c28f87">
@@ -77,7 +96,6 @@ Referensi [1](https://scratch.mit.edu/)
 [](https://youtu.be/3Ja175nlyQ0)
 
 ## Mengeksplorasi dan Menjelaskan Layanan Cloud Service yang Diminati (GCP / AWS / Azure) [v] ⭐⭐
-Saat ini banyak perusahaan berbasis digital seperti Gojek, Tokopedia, Instagram, Telkom memanfaatkan Cloud Service karena memudahkan untuk mulai pembangunan dan analisis menggunakan infrastruktur digital yang dapat berkembang secara dinamis dengan tarif yang sangat teliti.
 
 Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsoft Azure](https://azure.microsoft.com) [Google Cloud Platform](https://cloud.google.com) 
 
