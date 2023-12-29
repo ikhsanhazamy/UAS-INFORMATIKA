@@ -1,8 +1,9 @@
-# UAS-INFORMATIKA
+ b# UAS-INFORMATIKA
 # Hello Informatics !
 
 ## Menjelaskan dan Menginternalisasi Computational Thinking ⭐⭐⭐⭐⭐⭐⭐
 [blog](https://cussid.wordpress.com/2023/12/19/menjelaskan-dan-menginternalisasi-computational-thinking-%e2%ad%90%e2%ad%90%e2%ad%90%e2%ad%90%e2%ad%90%e2%ad%90%e2%ad%90/)
+[](https://youtu.be/y3QAy3c-Qok)
 
 ## Menjelaskan Jenis-Jenis Mesin Komputasi ⭐⭐⭐
 [blog](https://cussid.wordpress.com/2023/12/18/menjelaskan-jenis-jenis-mesin-komputasi-%e2%ad%90%e2%ad%90%e2%ad%90/)word
@@ -64,11 +65,9 @@ Referensi [1](https://scratch.mit.edu/)
 ## Mencoba Pelacakan Informasi Server dari Alamat Domain [v] ⭐
   [domain](https://en.wikipedia.org/wiki/List_of_Internet_top-level_domains#Geographic_top-level_domains)
   DNS Lookup:
-  
   Dengan melakukan DNS lookup, Anda dapat mengetahui informasi seperti alamat IP yang terkait dengan domain tersebut. Perintah nslookup atau dig juga dapat       digunakan untuk melakukan DNS lookup.
   contoh penggunaan nslookup pada google.com
   ![image](https://github.com/ikhsanhazamy/UAS-INFORMATIKA/assets/144709114/6b9154c3-3476-45db-aa49-d4482f2e763e)
-
 
 ## Mencoba Pembuatan Halaman Web Menggunakan HTML, CSS, dan JavaScript [v] ⭐⭐⭐
   [hasil web](https://github.com/ikhsanhazamy/WEB-GROZAV)  
@@ -89,7 +88,9 @@ Hal ini memungkinkan aplikasi klien dan server untuk berkomunikasi menggunakan f
   [](https://github.com/ikhsanhazamy)
 
 ## Mencoba Penggunaan Web Hosting Dengan Untuk Web Service [v] ⭐⭐⭐
-
+ <img width="888" alt="image" src="https://github.com/ikhsanhazamy/UAS-INFORMATIKA/assets/144709114/efdeddfd-047d-4f1f-af3b-cdf809c28f87">
+  [](https://github.com/ikhsanhazamy)
+  
 ## Mencoba HTTP Request dan Web API dengan Hoppscotch / Postman [v] ⭐⭐
 ![image](https://github.com/ikhsanhazamy/UAS-INFORMATIKA/assets/144709114/254026bc-bbd1-4f9c-9f70-81f0fde8fd79)
 ![image](https://github.com/ikhsanhazamy/UAS-INFORMATIKA/assets/144709114/541d3e56-4670-4ac7-a7aa-3fab3b89df4f)
@@ -133,7 +134,7 @@ Logo adalah sebuah bahasa pemrograman edukatif yang didesain pada tahun 1967 ole
 ![image](https://github.com/ikhsanhazamy/UAS-INFORMATIKA/assets/144709114/27ee12fc-c2aa-46e0-b752-9219e553aff1)
 
 ## Mencoba Web Tool AI Generative (Text to Image, Text to Text) [v] ⭐⭐⭐⭐
-[text to image](https://youtu.be/r-V5rtfNlSU)
+[](https://youtu.be/r-V5rtfNlSU)
 
 ## Mencoba Model Machine Learning Menggunakan Google Colab, TTS, Speechrecognition, dan HuggingFace [v] ⭐⭐⭐
 
