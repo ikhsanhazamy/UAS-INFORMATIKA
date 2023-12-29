@@ -1,4 +1,4 @@
- b# UAS-INFORMATIKA
+# UAS-INFORMATIKA
 # Hello Informatics !
 
 ## Menjelaskan dan Menginternalisasi Computational Thinking ⭐⭐⭐⭐⭐⭐⭐
@@ -22,9 +22,7 @@
 [drive](https://drive.google.com/drive/folders/15anMj79rDmJmVKEa7-uwlIMeWIszNWy1?usp=drive_link)
 ![pembuatan kopi Diagram](https://github.com/ikhsanhazamy/UAS-INFORMATIKA/assets/144709114/7f05932d-a01a-4e0f-ab56-b95513283bbc)
 
-
 ## Mencoba Scratch Bahasa Indonesia [v] ⭐⭐⭐⭐⭐⭐⭐
-Referensi [1](https://scratch.mit.edu/)
 
 ## Mencoba Algoritma Bubble Sort Menggunakan Java [v] ⭐⭐⭐
   ![image](https://github.com/ikhsanhazamy/UAS-INFORMATIKA/assets/144709114/7e2a27fb-1c79-4e9f-86e2-2435905ac169)
@@ -88,9 +86,7 @@ Hal ini memungkinkan aplikasi klien dan server untuk berkomunikasi menggunakan f
   [](https://github.com/ikhsanhazamy)
 
 ## Mencoba Penggunaan Web Hosting Dengan Untuk Web Service [v] ⭐⭐⭐
- <img width="888" alt="image" src="https://github.com/ikhsanhazamy/UAS-INFORMATIKA/assets/144709114/efdeddfd-047d-4f1f-af3b-cdf809c28f87">
-  [](https://github.com/ikhsanhazamy)
-  
+
 ## Mencoba HTTP Request dan Web API dengan Hoppscotch / Postman [v] ⭐⭐
 ![image](https://github.com/ikhsanhazamy/UAS-INFORMATIKA/assets/144709114/254026bc-bbd1-4f9c-9f70-81f0fde8fd79)
 ![image](https://github.com/ikhsanhazamy/UAS-INFORMATIKA/assets/144709114/541d3e56-4670-4ac7-a7aa-3fab3b89df4f)
@@ -100,6 +96,7 @@ Hal ini memungkinkan aplikasi klien dan server untuk berkomunikasi menggunakan f
 [](https://youtu.be/3Ja175nlyQ0)
 
 ## Mengeksplorasi dan Menjelaskan Layanan Cloud Service yang Diminati (GCP / AWS / Azure) [v] ⭐⭐
+[](https://cussid.wordpress.com/2023/12/29/layanan-cloud-services/)
 Layanan Cloud Service pada AWS adalah layanan yang memungkinkan pengguna untuk mengakses sumber daya komputasi melalui internet. Ada tiga jenis layanan utama yang disediakan oleh AWS, yaitu:
 
 1. **Software as a Service (SaaS)**: Layanan ini memungkinkan pengguna untuk mengakses aplikasi melalui internet tanpa perlu menginstal atau melakukan mekanisme pemasangan khusus. Pengguna hanya perlu mengakses datanya melalui internet dari perangkat komputernya masing-masing. Contoh aplikasi jasa layanan cloud computing dengan layanan SaaS: Amazon WorkMail.
@@ -136,11 +133,14 @@ Logo adalah sebuah bahasa pemrograman edukatif yang didesain pada tahun 1967 ole
 ## Mencoba Web Tool AI Generative (Text to Image, Text to Text) [v] ⭐⭐⭐⭐
 [](https://youtu.be/r-V5rtfNlSU)
 
-## Mencoba Model Machine Learning Menggunakan Google Colab, TTS, Speechrecognition, dan HuggingFace [v] ⭐⭐⭐
+## Mencoba Model Menggunakan Google Colab, TTS, Speechrecognition, dan HuggingFace [v] ⭐⭐⭐
+[](https://youtu.be/qmNxMEctiuY)
 
 ## Mencoba Data Visualization Dengan Tools [v] ⭐⭐
+[](https://youtu.be/r-V5rtfNlSU)
 
-## Mencoba Data Visualization Dengan Code [v] ⭐⭐
+## Mencoba Data Visualization Dengan code[v] ⭐⭐
+[](https://youtu.be/ITZUFFB6gJE)
 
 ## Mendaftar dan Mencoba Eksplorasi HuggingFace [v] ⭐⭐⭐
   [](https://youtu.be/Y0yD_LAhNQc)
