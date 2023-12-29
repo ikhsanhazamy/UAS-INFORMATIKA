@@ -91,13 +91,24 @@ Hal ini memungkinkan aplikasi klien dan server untuk berkomunikasi menggunakan f
 ## Mencoba Penggunaan Web Hosting Dengan Untuk Web Service [v] ⭐⭐⭐
 
 ## Mencoba HTTP Request dan Web API dengan Hoppscotch / Postman [v] ⭐⭐
+![image](https://github.com/ikhsanhazamy/UAS-INFORMATIKA/assets/144709114/254026bc-bbd1-4f9c-9f70-81f0fde8fd79)
+![image](https://github.com/ikhsanhazamy/UAS-INFORMATIKA/assets/144709114/541d3e56-4670-4ac7-a7aa-3fab3b89df4f)
+![image](https://github.com/ikhsanhazamy/UAS-INFORMATIKA/assets/144709114/6ef90482-62a7-4e2a-b58f-74d64b99596f)
 
 ## Mendemonstrasikan Penggunaan Developer Tools Pada Web Browser (Firefox / Chrome) [v] ⭐⭐⭐⭐⭐
 [](https://youtu.be/3Ja175nlyQ0)
 
 ## Mengeksplorasi dan Menjelaskan Layanan Cloud Service yang Diminati (GCP / AWS / Azure) [v] ⭐⭐
+Layanan Cloud Service pada AWS adalah layanan yang memungkinkan pengguna untuk mengakses sumber daya komputasi melalui internet. Ada tiga jenis layanan utama yang disediakan oleh AWS, yaitu:
 
-Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsoft Azure](https://azure.microsoft.com) [Google Cloud Platform](https://cloud.google.com) 
+1. **Software as a Service (SaaS)**: Layanan ini memungkinkan pengguna untuk mengakses aplikasi melalui internet tanpa perlu menginstal atau melakukan mekanisme pemasangan khusus. Pengguna hanya perlu mengakses datanya melalui internet dari perangkat komputernya masing-masing. Contoh aplikasi jasa layanan cloud computing dengan layanan SaaS: Amazon WorkMail.
+
+2. **Platform as a Service (PaaS)**: Layanan ini mendukung pengguna dalam menyebarkan aplikasi yang sedang dikerjakan dengan menggunakan bahasa pemrograman dan alat-alat tertentu yang didukung oleh penyedia jasa ke pengguna lainnya melalui fasilitas cloud. Pengguna tidak mengelola atau mengendalikan infrastruktur (komputer server, jaringan, sistem operasi, atau media penyimpanan data), tetapi memiliki hak untuk pengendalian dan pengembangan secara penuh terhadap aplikasi serta cara mengkonfigurasi pengaturan untuk lingkungan aplikasi. Contoh aplikasi jasa layanan cloud computing dengan layanan PaaS: AWS Elastic Beanstalk.
+
+3. **Infrastructure as a Service (IaaS)**: Layanan ini menyediakan infrastruktur komputasi yang disediakan dan dikelola di pusat data, tetapi memungkinkan pelanggan untuk sepenuhnya menyesuaikan sumber daya tersebut untuk membeli, menginstal, mengkonfigurasi, dan mengelola perangkat lunak apa pun yang mereka butuhkan.
+![image](https://github.com/ikhsanhazamy/UAS-INFORMATIKA/assets/144709114/970c331f-52c2-46c3-8ebe-9c91086699b9)
+![image](https://github.com/ikhsanhazamy/UAS-INFORMATIKA/assets/144709114/8c6f069d-28b4-42ed-8f65-edffe9beda78)
+![image](https://github.com/ikhsanhazamy/UAS-INFORMATIKA/assets/144709114/23a7ee62-9009-4005-9321-f352a27aea7e)
 
 ## Mencoba Penggunaan Content Management System (Wordpress) [v] ⭐⭐⭐
   [Management Content](https://youtu.be/5I1Te_cVX_M) 
@@ -109,13 +120,20 @@ Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsof
   [Multimedia Konten](https://youtu.be/xl7sYsGE0dI)
 
 ## Mencoba Pembuatan Game dan Simulasi Menggunakan Logo [v] ⭐⭐
+Logo adalah sebuah bahasa pemrograman edukatif yang didesain pada tahun 1967 oleh Daniel G. Bobrow, Wally Feurzeig, Seymour Papert, dan Cynthia Solomon . Bahasa pemrograman ini terkenal karena penggunaannya dalam “turtle graphics”, di mana perintah untuk gerakan atau gambaran memproduksi grafis garis entah di layar atau dengan sebuah robot mungil yang disebut “turtle”. Logo memiliki tiga jenis perintah utama, yaitu motion, turn, dan pen . Perintah motion digunakan untuk menggerakkan turtle ke depan atau ke belakang, sedangkan perintah turn digunakan untuk memutar turtle ke kiri atau ke kanan . Perintah pen digunakan untuk mengontrol pena yang digunakan oleh turtle untuk menggambar.
+[](https://youtu.be/l333R9EILww)
 
 ## Mencoba Pemrosesan Konten Multimedia (Image, Audio) Menggunakan Google Colab [v] ⭐⭐⭐
   <img width="914" alt="image" src="https://github.com/ikhsanhazamy/UAS-INFORMATIKA/assets/144709114/0a62ce75-1351-4038-a66b-dcb69b0eef6c">
 
 ## Mencoba Web Tool AI Discriminative (Image Classification) [v] ⭐⭐⭐⭐
+![image](https://github.com/ikhsanhazamy/UAS-INFORMATIKA/assets/144709114/1149376e-502c-4334-89ac-29c51423e271)
+![image](https://github.com/ikhsanhazamy/UAS-INFORMATIKA/assets/144709114/619d0d21-ced0-46d5-8667-4e962dc07114)
+![image](https://github.com/ikhsanhazamy/UAS-INFORMATIKA/assets/144709114/d337192b-2720-4601-992c-55681ba22c24)
+![image](https://github.com/ikhsanhazamy/UAS-INFORMATIKA/assets/144709114/27ee12fc-c2aa-46e0-b752-9219e553aff1)
 
 ## Mencoba Web Tool AI Generative (Text to Image, Text to Text) [v] ⭐⭐⭐⭐
+[text to image](https://youtu.be/r-V5rtfNlSU)
 
 ## Mencoba Model Machine Learning Menggunakan Google Colab, TTS, Speechrecognition, dan HuggingFace [v] ⭐⭐⭐
 
