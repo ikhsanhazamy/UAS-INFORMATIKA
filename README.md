@@ -1,4 +1,4 @@
-# UAS-INFORMATIKA
+ # UAS-INFORMATIKA
 # Hello Informatics !
 
 ## Menjelaskan dan Menginternalisasi Computational Thinking ⭐⭐⭐⭐⭐⭐⭐
@@ -23,6 +23,7 @@
 ![pembuatan kopi Diagram](https://github.com/ikhsanhazamy/UAS-INFORMATIKA/assets/144709114/7f05932d-a01a-4e0f-ab56-b95513283bbc)
 
 ## Mencoba Scratch Bahasa Indonesia [v] ⭐⭐⭐⭐⭐⭐⭐
+[](https://youtu.be/w46r8MgBQAk)
 
 ## Mencoba Algoritma Bubble Sort Menggunakan Java [v] ⭐⭐⭐
   ![image](https://github.com/ikhsanhazamy/UAS-INFORMATIKA/assets/144709114/7e2a27fb-1c79-4e9f-86e2-2435905ac169)
