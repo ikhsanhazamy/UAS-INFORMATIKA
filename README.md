@@ -3,7 +3,7 @@
 
 ## Menjelaskan dan Menginternalisasi Computational Thinking ⭐⭐⭐⭐⭐⭐⭐
 [blog](https://cussid.wordpress.com/2023/12/19/menjelaskan-dan-menginternalisasi-computational-thinking-%e2%ad%90%e2%ad%90%e2%ad%90%e2%ad%90%e2%ad%90%e2%ad%90%e2%ad%90/)
-[](https://youtu.be/y3QAy3c-Qok)
+[Computational Thinking](https://youtu.be/y3QAy3c-Qok)
 
 ## Menjelaskan Jenis-Jenis Mesin Komputasi ⭐⭐⭐
 [blog](https://cussid.wordpress.com/2023/12/18/menjelaskan-jenis-jenis-mesin-komputasi-%e2%ad%90%e2%ad%90%e2%ad%90/)word
@@ -87,6 +87,8 @@ Hal ini memungkinkan aplikasi klien dan server untuk berkomunikasi menggunakan f
   [](https://github.com/ikhsanhazamy)
 
 ## Mencoba Penggunaan Web Hosting Dengan Untuk Web Service [v] ⭐⭐⭐
+[Blog](https://cussid.wordpress.com/2023/12/31/web-service/)
+![image](https://github.com/ikhsanhazamy/UAS-INFORMATIKA/assets/144709114/8b9b911a-3037-46d8-ac81-ca3fa18dd78d)s
 
 ## Mencoba HTTP Request dan Web API dengan Hoppscotch / Postman [v] ⭐⭐
 ![image](https://github.com/ikhsanhazamy/UAS-INFORMATIKA/assets/144709114/254026bc-bbd1-4f9c-9f70-81f0fde8fd79)
