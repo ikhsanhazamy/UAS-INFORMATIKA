@@ -3,6 +3,7 @@
 
 ## Menjelaskan dan Menginternalisasi Computational Thinking ⭐⭐⭐⭐⭐⭐⭐
 [blog](https://cussid.wordpress.com/2023/12/19/menjelaskan-dan-menginternalisasi-computational-thinking-%e2%ad%90%e2%ad%90%e2%ad%90%e2%ad%90%e2%ad%90%e2%ad%90%e2%ad%90/)
+
 [Computational Thinking](https://youtu.be/y3QAy3c-Qok)
 
 ## Menjelaskan Jenis-Jenis Mesin Komputasi ⭐⭐⭐
