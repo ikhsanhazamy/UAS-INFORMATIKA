@@ -24,7 +24,7 @@
 ![pembuatan kopi Diagram](https://github.com/ikhsanhazamy/UAS-INFORMATIKA/assets/144709114/7f05932d-a01a-4e0f-ab56-b95513283bbc)
 
 ## Mencoba Scratch Bahasa Indonesia [v] ⭐⭐⭐⭐⭐⭐⭐
-[](https://youtu.be/w46r8MgBQAk)
+[youtube](https://youtu.be/w46r8MgBQAk)
 
 ## Mencoba Algoritma Bubble Sort Menggunakan Java [v] ⭐⭐⭐
   ![image](https://github.com/ikhsanhazamy/UAS-INFORMATIKA/assets/144709114/7e2a27fb-1c79-4e9f-86e2-2435905ac169)
@@ -75,7 +75,7 @@
   ![image](https://github.com/ikhsanhazamy/UAS-INFORMATIKA/assets/144709114/afe68af3-4bee-4bc7-a32e-c500c2c70975)
 
 ## Mencoba Penerapan Teknik Search Engine Optimization (SEO) Pada HTML [v] ⭐⭐⭐
-  [](https://cussid.wordpress.com/2023/12/28/seo-search-engine-optimization/)
+  [blog](https://cussid.wordpress.com/2023/12/28/seo-search-engine-optimization/)
 
 ## Mencoba Pembuatan File JSON [v] ⭐⭐⭐
 File JSON (JavaScript Object Notation) 
@@ -85,7 +85,7 @@ Hal ini memungkinkan aplikasi klien dan server untuk berkomunikasi menggunakan f
 
 ## Mencoba Penggunaan Web Hosting Dengan Untuk Halaman HTML [v] ⭐⭐⭐
   <img width="888" alt="image" src="https://github.com/ikhsanhazamy/UAS-INFORMATIKA/assets/144709114/efdeddfd-047d-4f1f-af3b-cdf809c28f87">
-  [](https://github.com/ikhsanhazamy)
+  [github](https://github.com/ikhsanhazamy)
 
 ## Mencoba Penggunaan Web Hosting Dengan Untuk Web Service [v] ⭐⭐⭐
 [Blog](https://cussid.wordpress.com/2023/12/31/web-service/)
@@ -208,7 +208,7 @@ Logo adalah sebuah bahasa pemrograman edukatif yang didesain pada tahun 1967 ole
 [Profil GiHub](https://github.com/ikhsanhazamy)
 
 ## Mengikuti Workshop / Event / Course Terkait IT ⭐⭐⭐⭐
-[Coure] (https://dashboard.codepolitan.com/user/ikhsanhazamygmailcom)     
+[Course] (https://dashboard.codepolitan.com/user/ikhsanhazamygmailcom)     
 ![image](https://github.com/ikhsanhazamy/UAS-INFORMATIKA/assets/144709114/dd6f24bf-3256-43d6-b24d-6e733aabd443)
 ![image](https://github.com/ikhsanhazamy/UAS-INFORMATIKA/assets/144709114/b0c34752-ff60-4b18-998d-b803205d43a6)
 ![image](https://github.com/ikhsanhazamy/UAS-INFORMATIKA/assets/144709114/fe5d4892-d10b-41e2-bc78-d6943eeb8d8b)
