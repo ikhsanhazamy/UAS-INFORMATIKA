@@ -37,6 +37,7 @@
 [HackerRank](https://youtu.be/Tj5ZGIaMhSU)
 
 ## Mendemonstrasikan Pembuatan Aplikasi / Game Pada Platform : Mobile / Desktop / Web Browser ⭐⭐⭐⭐⭐
+  [drive](https://drive.google.com/drive/folders/17wiM7wUOQdsKjxjvH0QR9DJIwpol1YxL?usp=sharing)
 
 ## Mencoba Instalasi Database (PostgreSQL / MySQL / dsb.) [v] ⭐⭐⭐
   ![image](https://github.com/ikhsanhazamy/UAS-INFORMATIKA/assets/144709114/7445e6ef-66e3-4a52-8d07-a8ce823d4bab)
